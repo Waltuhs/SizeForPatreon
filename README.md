@@ -1,4 +1,7 @@
 # SizeForPatreon
+![downloads](https://img.shields.io/github/downloads/Waltuhs/SizeForPatreon/total?logo=github&style=for-the-badge)
+![ver](https://img.shields.io/github/v/release/Waltuhs/SizeForPatreon?include_prereleases&logo=github&style=for-the-badge)
+[![disc](https://img.shields.io/discord/1235681501849321482?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/MQAcPFJRkR)
 ### A Exiled plugin/command (.size) that if they have the right permissions sets the users size specified in the command if its inbetween an amount described in config
 | |  |
 | --- | --- |
