@@ -63,5 +63,7 @@ namespace SizeForPatreon
         {
             player.Scale = new UnityEngine.Vector3(x, y, player.Scale.z);
         }
+
+        public bool SanitizeResponse { get; } = false;
     }
 }
